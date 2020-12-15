@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.exe
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.deps.json
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.dll
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\bin\Debug\netcoreapp3.1\Flaskeautomaten.pdb
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.dll
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.pdb
+C:\Users\PhilipJensen\source\repos\Flaskeautomaten\Flaskeautomaten\obj\Debug\netcoreapp3.1\Flaskeautomaten.genruntimeconfig.cache
